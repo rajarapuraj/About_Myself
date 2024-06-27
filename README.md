@@ -4,7 +4,7 @@ Dedicated and results-driven healthcare professional with a proven track record 
 
 - 🔭 I’m currently working on **Data analysis**
 
-- 🌱 I’m currently learning **Data Analysis and Visualization**
+- 🌱 I’m currently learning **Data Engineering, AI/ML in Healthcare, DevOps**
 
 - 👯 I’m looking to collaborate on **Healthcare Data Analysis Projects**
 
@@ -14,7 +14,7 @@ Dedicated and results-driven healthcare professional with a proven track record 
 
 - 📫 How to reach me **rajarapuraj.rr@gmail.com**
 
-- ⚡ Fun fact **Did you know that during my time as a clinical data analyst, I've used data analysis tools like SQL, SAS, and Power BI to sift through millions of rows of patient data? It's like finding a needle in a haystack, but instead of a needle, I'm uncovering insights that can improve patient care and potentially save lives!**
+- ⚡ Fun fact **Did you know that during my time as a clinical data analyst, I've used data analysis tools like SQL, SAS, and Power BI to shift through millions of rows of patient data? It's like finding a needle in a haystack, but instead of a needle, I'm uncovering insights that can improve patient care and potentially save lives!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
