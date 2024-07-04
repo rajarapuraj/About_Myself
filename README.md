@@ -2,13 +2,13 @@ Hi 👋, I'm Rahul Rajarapu</h1>
 
 Dedicated and results-driven healthcare professional with a proven track record in health data management and analysis, seeking a challenging position as an EHR, clinical, or healthcare data analyst. Bringing 3 years of solid analytical hands-on using Excel, SQL, SAS clinical, Power BI experience in extracting, analyzing, and interpreting complex clinical data sets to derive actionable insights, and 1 year of software implementation and maintenance experience. Adept at utilizing advanced analytical tools and technologies to optimize data accuracy, enhance decision-making process improvement, and apply healthcare analytics to a dynamic healthcare environment to improve quality patient care.
 
-- 🔭 I’m currently working on **Data analysis**
+- 🔭 I’m working on **Data analysis**
 
 - 🌱 I’m currently learning **Data Engineering, AI/ML in Healthcare, DevOps**
 
 - 👯 I’m looking to collaborate on **Healthcare Data Analysis Projects**
 
-- 🤝 I’m looking for help with **Healthcare Data Analysis Professionals**
+- 🤝 I’m looking to help **Healthcare Professionals** in healthcare/clincial data analysis
 
 - 💬 Ask me about **Healthcare and Clinical Data Analysis and Workflows**
 
