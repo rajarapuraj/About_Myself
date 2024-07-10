@@ -12,7 +12,7 @@ Dedicated and results-driven healthcare professional with a proven track record 
 
 - 💬 Ask me about **Healthcare and Clinical Data Analysis and Workflows**
 
-- 📫 How to reach me **rajarapuraj.rr@gmail.com**
+- 📫 Reach me at **rajarapuraj.rr@gmail.com**
 
 - ⚡ Fun fact **Did you know that during my time as a clinical data analyst, I've used data analysis tools like SQL, SAS, and Power BI to shift through millions of rows of patient data? It's like finding a needle in a haystack, but instead of a needle, I'm uncovering insights that can improve patient care and potentially save lives!**
 
